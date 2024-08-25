@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+Sitemap: https://tranhieu.store/sitemap.xml
+User-agent: *
+Disallow: /private/
+Allow: /
+Sitemap: https://tranhieu.store/sitemap.xml
